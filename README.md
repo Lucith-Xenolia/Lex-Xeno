@@ -1,5 +1,6 @@
 # Hi!
 I go by Lex Xeno but you can call me Lex.
+
 ## My hobbies are:
 * Coding (Python)
 * Machine learning (Python with TensorFlow)
@@ -14,5 +15,16 @@ I go by Lex Xeno but you can call me Lex.
 * [Replit](https://replit.com/@LexXeno)
 * [YouTube](https://www.youtube.com/@L3xXeno)
 
-## Extra stuffs!
-I use Linux (Ubuntu 22.04) because I hate myself. Nah, i'm just joking... I think?
+## PC Specs:
+* CPU: Intel Core i7-9700F (Coffee Lake), Overclocked to 4.7GHz
+* GPU: Nvidia GTX 1660 SUPER
+* RAM: 16GB, 3600Mt/s
+* OS: Windows 11
+* Storage: 
+  * 1TB HDD
+  * 1TB HDD
+  * 2TB SAS (withough controler or free PCIEx slot)
+  * 4 TB HDD
+  * 500GB SSD
+  * 500GB SSD
+  * 250GB SSD
