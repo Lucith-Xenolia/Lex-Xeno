@@ -2,11 +2,10 @@
 I go by Lex Xeno but you can call me Lex.
 
 ## My hobbies are:
-* Coding (Python)
-* Machine learning (Python with TensorFlow)
+* Coding (Python and C++)
+* Machine learning (Python with TensorFlow but I'm VERY new to it)
 * Engineering
-* Video editing (DaVinci Resolve 17)
-* Woodworking
+* Video editing (DaVinci Resolve 18)
 * 3D art (Blender)
 
 ## Platforms:
