@@ -20,11 +20,3 @@ I go by Lex Xeno but you can call me Lex.
 * GPU: Nvidia GTX 1660 SUPER
 * RAM: 16GB, 3600Mt/s
 * OS: Windows 11
-* Storage: 
-  * 1TB HDD
-  * 1TB HDD
-  * 2TB SAS (withough controler or free PCIEx slot)
-  * 4 TB HDD
-  * 500GB SSD
-  * 500GB SSD
-  * 250GB SSD
