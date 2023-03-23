@@ -1,15 +1,21 @@
 # Hi!
 I go by Lex Xeno but you can call me Lex.
+I'm a 14 year old crackhead on the internet with too much knowlage but I'd love to chat with like minded people!
+
+## I'm currently working on:
+* A 3d fursona model for @JaylaTheFolf on Twitter
+* A 3d fursona model for myself
+* and a robot arm
 
 ## My hobbies are:
 * Coding (Python and C++)
-* Machine learning (Python with TensorFlow but I'm VERY new to it)
 * Engineering
 * Video editing (DaVinci Resolve 18)
 * 3D art (Blender)
 
 ## Platforms:
-* [Twitter](https://twitter.com/L3xXeno) | *DMs open* | *I might be switching to Tumbler though*
+* [Twitter](https://twitter.com/L3xXeno) | *DMs open*
+* [Redit](https://www.reddit.com/user/TheRealXeno-L/)
 * Discord | Lex Xeno#9833 | *DMs open*
 * [Replit](https://replit.com/@LexXeno)
 * [YouTube](https://www.youtube.com/@L3xXeno)
