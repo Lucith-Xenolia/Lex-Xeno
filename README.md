@@ -14,14 +14,14 @@ I'm a 14 year old crackhead on the internet with too much knowlage but I'd love 
 * 3D art (Blender)
 
 ## Platforms:
-* [Twitter](https://twitter.com/L3xXeno) | *DMs open*
+* [Twitter](https://twitter.com/L3xXeno)
 * [Redit](https://www.reddit.com/user/TheRealXeno-L/)
-* Discord | Lex Xeno#9833 | *DMs open*
+* Discord | Lex Xeno#9833
 * [Replit](https://replit.com/@LexXeno)
 * [YouTube](https://www.youtube.com/@L3xXeno)
 
 ## PC Specs:
 * CPU: Intel Core i7-9700F (Coffee Lake), Overclocked to 4.7GHz
-* GPU: Nvidia GTX 1660 SUPER
-* RAM: 16GB, 3600Mt/s
+* GPU: AMD RX 6650 XT
+* RAM: 16GB, 2660Mt/s
 * OS: Windows 11
