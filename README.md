@@ -1,6 +1,6 @@
 # Hi!
 I go by Lex Xeno (pronounced Z-ee-no) but you can call me Lex.
-I'm a 14 year old guy on the internet with alot of knowledge and curiosity!
+I'm a 14 year old guy on the internet with a lot of knowledge and curiosity!
 
 ## I'm currently working on:
 * Drawing shapes on an image (it's a lot harder than it sounds lol)
