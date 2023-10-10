@@ -17,7 +17,7 @@ I'm a 14 year old guy on the internet with alot of knowledge and curiosity!
 * [Redit](https://www.reddit.com/user/TheRealXeno-L/)
 * Discord | Lex Xeno#9833
 * [Replit](https://replit.com/@LexXeno)
-* [pinterest](https://www.pinterest.co.uk/Lex_Xeno/)
+* [Pinterest](https://www.pinterest.co.uk/Lex_Xeno/)
 
 ## PC Specs:
 * CPU: AMD Ryzen 7 5800X3D
