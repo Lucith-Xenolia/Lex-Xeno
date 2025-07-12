@@ -1,16 +1,16 @@
-# Hi!
-I go by Lex Xeno (pronounced Lex Z-ee-no) but you can call me Lex.
+# Hi (0w0)
+I go by Lucith Xenolia (Loo-sith Zee-no-lie-ah or /*luːsɪθ ziːnoʊlaɪa*/) but you can call me Lucith.
 
-I'm a 15-year-old guy (he/him) on the internet with a lot of curiosity and enthusiasm towards the inner workings of computers and the software that runs on them!
+I'm an student currently completing his A-Levels but I also enjoy doing computer science (and other things) on the side.
 
-Plus, I would love to chat with like-minded people and one day contribute to open source (although I might need a bit more experience)!
+## My Hobbies
+- Coding in Rust
+  - Embedded systems
+  - Electronics
+  - Graphics programming
+- Writing
+- Digital art
 
-## My hobbies are:
-* Coding in Rust
-* Embedded systems
-* Electronics
-* 3D art (Blender)
-
-## Platforms:
-* [Reddit](https://www.reddit.com/user/TheRealXeno-L/)
-* Discord | Lex Xeno#9833
+## My Current Projects
+- [The Vixen Project](https://github.com/Lucith-Xenolia/the_vixen_project) ([Noxol UI](https://github.com/Lucith-Xenolia/noxol_ui)) - a suite of applications for Linux
+- Xenolith - a sci-fi, furry, romance story 
