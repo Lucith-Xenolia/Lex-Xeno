@@ -12,7 +12,5 @@ I'm a student currently completing his A-Levels but I also enjoy doing computer 
 - Digital art
 
 ## My Current Projects
-- [The Vixen Project](https://github.com/Lucith-Xenolia/the_vixen_project) - a suite of applications for Linux
-    - [Noxol UI](https://github.com/Lucith-Xenolia/noxol_ui) - a new approach to UI creation
-        - [Noxol ECS](https://github.com/Lucith-Xenolia/noxol_ecs) - the ECS system for Noxol UI
+- Learning embedded systems and electronics
 - Xenolith - a sci-fi, furry, romance story dealing with many raw and dark subjects
