@@ -12,5 +12,5 @@ I'm a student currently completing his A-Levels but I also enjoy doing computer 
 - Digital art
 
 ## My Current Projects
-- Learning embedded systems and electronics
+- Lexus - a file manager
 - Xenolith - a sci-fi, furry, romance story dealing with many raw and dark subjects
